@@ -21,7 +21,7 @@
 
 ### Running tests
 
-1. Open the your project
+1. Open your project
 2. Open the Tests Suites folder and go to Main Test Suite
 3. In the top of screen, click in the run button
 4. Select your device and wait the tests run
